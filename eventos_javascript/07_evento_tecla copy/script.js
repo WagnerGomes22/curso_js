@@ -1,7 +1,7 @@
 window.addEventListener("keyup", function(e) {
 
-    if(e.key == "q") {
-        console.log("q")
+    if(e.key == "m") {
+        console.log("m")
     } 
 
 });
